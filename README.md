@@ -1,6 +1,4 @@
 # VCPlayerBot [![Mentioned in Awesome](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/tgcalls/awesome-tgcalls)
-
-#Data👇
 ![GitHub Repo stars](https://img.shields.io/github/stars/mrkpbots/MegaDL-Bot?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/mrkpbots/MegaDL-Bot?color=green&style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/mrkpbots/MegaDL-Bot)
