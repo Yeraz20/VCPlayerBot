@@ -71,7 +71,7 @@ python3 main.py
 
 ### Note
 
-[Note To A So Called Dev](https://telegram.dog/GetTGLink/802):  
+[Note To A So Called Dev](https://telegram.me/DancePlusHd):  
 
 Kanging this codes and and editing a few lines and releasing a V.x of your repo wont make you a Developer.
 Fork the repo and edit as per your needs.
